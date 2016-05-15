@@ -2,9 +2,9 @@
 Countries, City , State in postgres sql dump 
 
 There are three files here one is 
-<<Countres.sql
-<<State.sql
-<<Cities.sql
+1. Countres.sql
+2. State.sql
+3. Cities.sql
 
 Relationships are managed in sql dump , its only for Postgres 
 
